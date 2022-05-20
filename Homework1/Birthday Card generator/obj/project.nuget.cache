@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yZYZ4898zTmX8vNKVCSc6dNPWHjK4RjKOaTVdCUIusa/9tvH2JIqdSZWjsCaQHBfjeW08PtJLY2x9EgdrPWqCA==",
+  "dgSpecHash": "RqAnUZh2vRiedx8Lm6wWhiTq+QcahLd+Ud8FcHJamTG5FxGNBN01+hO7Y1fW0k+gOwHcnYiL4ui3onwpegYHJw==",
   "success": true,
-  "projectFilePath": "E:\\uw-asp\\Birthday Card generator\\Birthday Card Generator.csproj",
+  "projectFilePath": "E:\\uw-asp\\HW\\Homework1\\Birthday Card generator\\Birthday Card Generator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deepi\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
     "C:\\Users\\deepi\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

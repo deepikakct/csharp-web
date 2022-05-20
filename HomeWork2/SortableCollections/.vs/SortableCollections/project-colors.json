@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48fa175d-46c7-441e-80f0-20820f808370": {
+      "ProjectGuid": "48fa175d-46c7-441e-80f0-20820f808370",
+      "DisplayName": "SortableCollections",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

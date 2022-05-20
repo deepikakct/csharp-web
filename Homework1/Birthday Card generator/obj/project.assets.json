@@ -9157,11 +9157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\uw-asp\\Birthday Card generator\\Birthday Card generator.csproj",
-      "projectName": "Birthday Card generator",
-      "projectPath": "E:\\uw-asp\\Birthday Card generator\\Birthday Card generator.csproj",
+      "projectUniqueName": "E:\\uw-asp\\HW\\Homework1\\Birthday Card generator\\Birthday Card Generator.csproj",
+      "projectName": "Birthday Card Generator",
+      "projectPath": "E:\\uw-asp\\HW\\Homework1\\Birthday Card generator\\Birthday Card Generator.csproj",
       "packagesPath": "C:\\Users\\deepi\\.nuget\\packages\\",
-      "outputPath": "E:\\uw-asp\\Birthday Card generator\\obj\\",
+      "outputPath": "E:\\uw-asp\\HW\\Homework1\\Birthday Card generator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
